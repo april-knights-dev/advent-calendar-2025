@@ -1,1 +1,3 @@
 # advent-calendar-2025
+
+アドベントカレンダーについて、GeminiにDeepResearchを使って全記事を読んだうえで総評をまとめてもらったものです。
